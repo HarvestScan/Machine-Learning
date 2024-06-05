@@ -1,0 +1,2 @@
+untuk model plant_disease_MobileNetV2(input256)(noaugment)(lr0.00001)(88.71%).h5: 8 salah per 33
+untuk model plant_disease_MobileNetV2(input256)(noaugment)(lr0.000009(reducelr))(94.72%).h5:  salah per 33
